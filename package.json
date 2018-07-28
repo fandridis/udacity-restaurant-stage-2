@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-reviews",
+  "version": "1.0.0",
+  "description": "Udacity-Google Mobile Web Specialist Nanodegree",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -a localhost -o"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-gzip": "^1.4.2",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-webp": "^3.0.0",
+    "imagemin-webp": "^4.1.0"
+  },
+  "dependencies": {
+    "idb": "^2.1.2"
+  },
+  "author": "Georgios Fandridis",
+  "license": "MIT"
+}
