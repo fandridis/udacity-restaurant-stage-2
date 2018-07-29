@@ -2,12 +2,12 @@
     "short_name": "R-Reviews",
     "name": "Restaurant Reviews",
     "icons": [{
-            "src": "/img/icons/rr-icon-128.png",
+            "src": "/img/icon128.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "/images/rr-icon-512.png",
+            "src": "/img/icon512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
